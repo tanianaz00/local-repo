@@ -1,4 +1,5 @@
 # coding-time
+
 This is my first git repository
 <br>
-author - Tania Naz
+Author - Tania Naz(coding)
